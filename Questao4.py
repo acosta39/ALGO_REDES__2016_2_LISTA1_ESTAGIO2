@@ -24,5 +24,5 @@ elif soma == 1:
     print("Sabe de nada, inocente!!!")
 
 else:
-    print("Tá precisando estudar mais heim !!!") # Jefferson, aqui crie uma condição caso o entrevistado responde "não" a 
+    print("Tá precisando estudar mais heim !!!") # Jefferson, aqui criei uma condição caso o entrevistado responde "não" a 
                                                  # todas as questões.
