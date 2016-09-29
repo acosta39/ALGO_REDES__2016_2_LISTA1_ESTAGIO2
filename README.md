@@ -1,4 +1,4 @@
-ALBO_REDES_2016.2_Lista1
+ALBO_REDES_2016.2_LISTA1_ESTAGIO2
 
 Repositório da primeira lista de exercícios do 2º Estágio
 
